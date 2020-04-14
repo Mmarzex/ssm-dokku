@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "ssm/dokku"
+
+Ssm::Dokku::App.new.run_nested
