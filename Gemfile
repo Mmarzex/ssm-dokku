@@ -14,4 +14,4 @@ gem "solargraph", "~> 0.38.6", :group => :development
 
 gem "tty-prompt", "~> 0.21.0"
 
-gem "git", "~> 1.6"
+gem "git", "~> 1.11"
