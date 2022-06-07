@@ -27,7 +27,7 @@ GEM
     git (1.6.0)
       rchardet (~> 1.8)
     jaro_winkler (1.5.4)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     maruku (0.7.3)
     mini_portile2 (2.4.0)
     necromancer (0.5.1)
